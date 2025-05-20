@@ -55,12 +55,12 @@ const aboutData: About = {
 const experienceData: Experience[] = [
   {
     id: 1,
-    company: "Chevron",
+    company: "Abercrombie & Fitch",
     position: "Software Engineer",
-    description: "Migrated legacy systems to Spring Boot microservices with Kafka, improved system scalability, optimized REST APIs, revamped UI using React, enabled real-time data with Kafka, and led migration to AWS cloud. Implemented Docker, Kubernetes, CI/CD with Jenkins, optimized MySQL and MongoDB performance, and ensured quality through unit testing.",
-    technologies: ["Spring Boot", "Kafka", "React", "AWS", "Docker", "Kubernetes", "Jenkins", "MySQL", "MongoDB", "JUnit", "Mockito"],
+    description: "Developed and maintained scalable integrations between internal and third-party systems by building Kafka producers and consumers. Designed and implemented RESTful APIs using Spring Boot for efficient data exchange. Contributed to the development of a centralized Developer Portal using Next.js and Azure, enhancing API discoverability and internal developer experience. Ensured smooth deployment and monitoring using Docker and Kubernetes.",
+    technologies: ["Kafka", "Spring Boot", "REST APIs", "Next.js", "Azure", "Docker", "Kubernetes", "Gitlab"],
     startDate: "April 2023",
-    endDate: "December 2023"
+    endDate: "Present"
   },
   {
     id: 2,
